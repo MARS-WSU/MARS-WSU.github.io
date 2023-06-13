@@ -31,14 +31,14 @@ narangg:
     webpage: "https://narangg.github.io"
     github: narangg
     role: grad
-    image: /img/people/Gaurav.jpg
+    image: /img/people/gaurav.jpg
     bio: "PhD student | Resource Management"
     
 harshari:
     display_name: "Harsh Sharma"
     webpage: "https://harshari.github.io"
     role: grad
-    image: /img/people/Harsh.jpg
+    image: /img/people/harsh.jpg
     bio: "PhD candidate | Design | Art | Server-scale architecture design"
 
 pdhingra:
