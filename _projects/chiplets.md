@@ -1,8 +1,8 @@
 ---
-title: Cortex
+title: Chiplet-based architecture design
 
 description: |
-    End-to-end compilation of ML applications with dynamic and irregular control flow and data structure accesses
+    A novel server scale 2.5-D manycore architecture called SWAP for deep learning (DL) applications.
 
 
 layout: project
@@ -17,4 +17,6 @@ Cortex is an ongoing project that aims at building a compiler and runtime infras
 
 ## Publications
 
-* Pratik Fegade, Tianqi Chen, Phil Gibbons and Todd Mowry. [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383). ArXiv preprint.
+* {**BEST PAPER AWARD**} Harsh Sharma, Sumit K. Mandal, Jana Doppa, Umit Ogras and Partha Pratim Pande. [SWAP: A Server-Scale Communication-Aware Chiplet-Based Manycore PIM Accelerator](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9852792). - ESWEEK Conference 2023. Published in IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS, VOL. 41, NO. 11, NOVEMBER 2022. 
+
+* Harsh Sharma, Sumit K. Mandal, Jana Doppa, Umit Ogras and Partha Pratim Pande. [Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10137125) - Published in 2023 Design, Automation & Test in Europe Conference (DATE 2023) held in Antwerp, Belgium. 
