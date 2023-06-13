@@ -1,13 +1,13 @@
 # Faculty
 # Alphabetical order last name
 
-tqchen:
-    display_name: "Tianqi Chen"
-    webpage: "https://tqchen.com"
-    github: tqchen
-    role: faculty
+narangg:
+    display_name: "Gaurav Narang"
+    webpage: "https://narangg.github.io"
+    github: narangg
+    role: PhD student
     image: /img/people/tqchen.jpg
-    bio: "Assistant Professor"
+    bio: "PhD student"
 
 greg:
     display_name: "Greg Ganger"
