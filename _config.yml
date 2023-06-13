@@ -1,7 +1,7 @@
 encoding: UTF-8
 name: MARS
 baseurl: ""
-#url: https://mars-wsu.github.io
+url: https://mars-wsu.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
