@@ -1,5 +1,5 @@
 ---
-title: Dynamic Resource Management
+title: Dynamic Resource Management (L2S and UaOL)
 
 description: |
     Machine learning based dynamic resource management policies for mobile, large-manycore systems and PIM-based architectures
@@ -9,27 +9,24 @@ layout: project
 last-updated: 2023-06-13
 ---
 
-[FlexFlow](https://flexflow.ai) is a DNN framework that automatically discovers fast parallelization strategies for distributed DNN training.
-FlexFlow generalizes and goes beyond today's manually designed parallelization strategies (e.g., data and model parallelism) for distributed DNN training by exploring parallelization opportunities across different Samples, Operators, Attributes, and Parameters.
+<!-- [FlexFlow](https://flexflow.ai) -->
 
-FlexFlow includes a novel execution simulator to evaluate the runtime performance of different strategies and uses an automated search algorithm to discover highly optimized strategies, which generally outperform today's manually designed strategies.
+L2S is a learning to search framework that automatically discovers high quality power managment policies for large manycore systems. L2S generalizes and goes beyond today's manually designed non-ML methods such as linux governors for resource management by exploring power saving opportunities at minimal performance overhead across different HPC applications.
 
-FlexFlow provides the following key features:
+Learning to Search (L2S) framework provides the following key features:
 
-* **Flexible Parallelization**. FlexFlow supports parallelizing DNN training through combinations of the [Sample, Operator, Attribute, and Parameter](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf) dimensions, and guarantees that different parallelization strategies maintain the same model accuracy by design.
+* **Automated Learning and Search Process**. Bayesian Optimization enabled automated search process for finding optimal Dynamic power management policies.
 
-* **Performance Autotuning**. To accelerate DNN training on a specific parallel machine, FlexFlow uses guided randomized search to automatically find fast parallelization strategies while requiring no manual effort.
+<!-- FlexFlow supports parallelizing DNN training through combinations of the [Sample, Operator, Attribute, and Parameter](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf) dimensions, and guarantees that different parallelization strategies maintain the same model accuracy by design. -->
 
-* **Keras Support**. FlexFlow offers a drop-in replacement for TensorFlow Keras and transparently accelerates existing Keras programs by discovering faster parallelization strategies.
+<!-- * **Performance Autotuning**. To accelerate DNN training on a specific parallel machine, FlexFlow uses guided randomized search to automatically find fast parallelization strategies while requiring no manual effort. -->
 
-* **Large-Scale GNNs**. FlexFlow enables fast graph neural network (GNN) training on large graphs (e.g., billion-edge) by distributing GNN computations across multiple GPUs (potentially on multiple compute nodes) using [attribute parallelism](https://cs.stanford.edu/~zhihao/papers/mlsys20.pdf).
 
-More information about FlexFlow is available at [https://flexflow.ai](https://flexflow.ai).
+
+<!-- More information about FlexFlow is available at [https://flexflow.ai](https://flexflow.ai). -->
 
 ## Publication
 
-* Zhihao Jia, Sina Lin, Mingyu Gao, Matei Zaharia, and Alex Aiken. [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](https://cs.stanford.edu/~zhihao/papers/mlsys20.pdf). In Proceedings of the 3rd Conference on Machine Learning and Systems (MLSys), Austin, TX, March 2020.
+* Gaurav Narang, Aryan Deshwal, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande [DYNAMIC POWER MANAGEMENT IN LARGE MANYCORE SYSTEMS: A LEARNING-TO-SEARCH FRAMEWORK](https://cs.stanford.edu/~zhihao/papers/mlsys20.pdf). Accepted in TODAES, June 2023.
 
-* Zhihao Jia, Matei Zaharia, and Alex Aiken. [Beyond Data and Model Parallelism for Deep Neural Networks](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf). In Proceedings of the 2nd Conference on Machine Learning and Systems (MLSys), Palo Alto, CA, April 2019.
-
-* Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf). In Proceedings of the International Conference on Machine Learning (ICML), Stockholm, Sweden, July 2018.
+* Gaurav Narang, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande. [Uncertainty-aware Online Learning for Dynamic Power Management in Large Manycore systems](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf). Accepted in ISLPED, Vienna, Austria, Aug 2023.
