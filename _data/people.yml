@@ -3,14 +3,6 @@
 
 
 
-greg:
-    display_name: "Greg Bhai Ganger"
-    webpage: "http://users.ece.cmu.edu/~ganger/"
-    github: greg
-    role: faculty
-    image: /img/people/greg.jpg
-    bio: "Professor"
-
 Partha:
     display_name: "Partha Pratim Pande"
     webpage: "http://users.ece.cmu.edu/~ganger/"
@@ -22,14 +14,6 @@ Partha:
 
 # Postdocs/Collaborators
 
-xupeng:
-    display_name: "Xupeng Miao"
-    webpage: "https://hsword.github.io"
-    github: hsword
-    role: faculty
-    image: /img/people/xupengmiao.jpg
-    bio: "Postdoc"
-
 # Alphabetical order
 
 # Grads
@@ -40,7 +24,7 @@ narangg:
     github: narangg
     role: grad
     image: /img/people/tqchen.jpg
-    bio: "PhD student"
+    bio: "PhD student w small rod"
     
 harshari:
     display_name: "Harsh Sharma"
@@ -48,25 +32,43 @@ harshari:
     role: grad
     image: /img/people/daiyaanarfeen.jpg
 
+chux:
+    display_name: "Chux Ogbogu"
+    webpage: "https://narangg.github.io"
+    github: narangg
+    role: grad
+    image: /img/people/tqchen.jpg
+    bio: "PhD student with big rod"
+
+pdhingra:
+    display_name: "Pratyush Dhingra"
+    webpage: "https://harshari.github.io"
+    role: grad
+    image: /img/people/daiyaanarfeen.jpg
 
 # Masters
+doppa:
+    display_name: "Jana Doppa"
+    webpage: "https://guoyaoli.com"
+    role: collab
+    image: /img/people/guoyaoli.jpg
 
 guoyaoli:
-    display_name: "Guoyao Li"
+    display_name: "Umit Ogras"
     webpage: "https://guoyaoli.com"
-    role: masters
+    role: collab
     image: /img/people/guoyaoli.jpg
 
 sudeepagarwal:
-    display_name: "Sudeep Agarwal"
+    display_name: "Mike Kishinevsky"
     webpage: "https://sudeep.co"
-    role: masters
+    role: collab
     image: /img/people/sudeepagarwal.jpeg
 
 neerajaggarwal:
-    display_name: "Neeraj Aggarwal"
+    display_name: "Ananth Kalyanraman"
     webpage: "https://neerajaggarwal.com"
-    role: masters
+    role: collab
     image: /img/people/neerajaggarwal.jpg
     
 
@@ -74,7 +76,7 @@ neerajaggarwal:
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
 sheng:
-    display_name: "Sheng Xu"
+    display_name: "Biresh Joardar"
     webpage: "https://www.sheng-x.com/"
     github: shengxu1
     role: alum
@@ -82,7 +84,15 @@ sheng:
     bio: "M.S, 2020. Now at AWS."
 
 poojan:
-    display_name: "Poojan Palwai"
+    display_name: "Turbo Majumdar"
+    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    image: /img/people/poojan.jpg
+    bio: "B.S, class of 2023"
+
+sbiswas:
+    display_name: "Amlan Ganguly"
     webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
     github: ppalwai2001
     role: alum
