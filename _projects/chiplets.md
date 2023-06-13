@@ -6,13 +6,13 @@ description: |
 
 
 layout: project
-last-updated: 2020-11-12
+last-updated: 2023-June-12
 ---
 
-Cortex is an ongoing project that aims at building a compiler and runtime infrastructure that efficiently compiles ML applications with irregular and dynamic control flow and even irregular data structure accesses. To begin with, we have built a framework that can handle models with recursive data structure traversals, as shown in the figure below. For this case, we are able to completely disentangle the recursive traversal from the tensor computations and partially evaluate the former allowing us to offload the entire tensor computation to the accelerator (currently we support CPUs and GPUs) at once. This means that we can generate highly optimized implementations we avoid the costs of frequent communication between the accelerator and the host CPU.
+Processing-in-memory (PIM) is a promising technique to accelerate deep learning (DL) workloads. Emerging DL workloads (e.g., ResNet with 152 layers) consist of millions of parameters, which increase the area and fabrication cost of monolithic PIM accelerators. The fabrication cost challenge can be addressed by 2.5-D systems integrating multiple PIM chiplets connected through a network-on-package (NoP). However, server-scale scenarios simultaneously execute multiple compute-heavy DL workloads, leading to significant interchiplet data volume. State-of-the-art NoP architectures proposed in the literature do not consider the nature of DL workloads. In this article, we propose a novel server scale 2.5-D manycore architecture called SWAP that accounts for the traffic characteristics of DL applications. Comprehensive experimental evaluations with different system sizes as well as diverse emerging DL workloads demonstrate that SWAP achieves significant performance and energy consumption improvements with much lower fabrication cost than state-of-the-art NoP topologies.
 
 {:center: style="text-align: center"}
-![image](/img/cortex/overview.png){: width="80%"}
+![image](/img/chiplets/overview.png){: width="80%"}
 {:center}
 
 ## Publications
