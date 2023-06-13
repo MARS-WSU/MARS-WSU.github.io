@@ -1,7 +1,7 @@
 # Faculty
 # Alphabetical order last name
 
-narangg:
+Partha:
     display_name: "Gaurav Narang"
     webpage: "https://narangg.github.io"
     github: narangg
@@ -71,7 +71,14 @@ xupeng:
 
 # Grads
 # Alphabetical order last name
-
+narangg:
+    display_name: "Gaurav Narang"
+    webpage: "https://narangg.github.io"
+    github: narangg
+    role: PhD student
+    image: /img/people/tqchen.jpg
+    bio: "PhD student"
+    
 daiyaanarfeen:
     display_name: "Daiyaan Arfeen"
     webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
