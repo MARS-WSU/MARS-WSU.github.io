@@ -7,7 +7,7 @@ This is a [Jekyll][]-based Web site intended for research groups. Your group sho
 <img src="screenshot.png" width="387" height="225" alt="screenshot of the template">
 </p>
 
-This project originated at the University of Washington.  You can see the machinery working live at [our site][sampa].
+This project originated at the University of Washington. We thank the authors who provided an easy to use setup for our group websites. You can see the machinery working live at their site [SAMBA][sampa].
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
