@@ -5,7 +5,7 @@
 
 Partha:
     display_name: "Partha Pratim Pande"
-    webpage: "http://users.ece.cmu.edu/~ganger/"
+    webpage: "https://eecs.wsu.edu/~pande/"
     github: narangg
     role: faculty
     image: /img/people/pande.jpg
@@ -48,6 +48,12 @@ pdhingra:
     image: /img/people/harsh_pic.jpg
     bio: "PhD student | Robust system design"
 
+lukas:
+    display_name: "Lukas Pfromm"
+    webpage: "https://pdhingra.github.io"
+    role: grad
+    image: /img/people/harsh_pic.jpg
+    bio: "PhD student "
 
 
 # Masters
@@ -71,24 +77,29 @@ mike:
 
 ananth:
     display_name: "Ananth Kalyanraman"
-    webpage: "https://neerajaggarwal.com"
+    webpage: "https://eecs.wsu.edu/~ananth/"
     role: collab
-    image: /img/people/umit.jpg
-    
+    image: /img/people/ananth.jpg
 
+sumit:
+    display_name: "Sumit K. Mandal"
+    webpage: "https://www.csa.iisc.ac.in/~skmandal/"
+    role: collab
+    image: /img/people/sumit.jpeg
+    
 # Alums
 # The order is: PhD/postdoc by year; MS by year; BS by year
 
 biresh:
     display_name: "Biresh Joardar"
-    webpage: "https://www.sheng-x.com/"
+    #webpage: "https://www.sheng-x.com/"
     github: shengxu1
     role: alum
     bio: "Assistant Professor at University of Houston"
 
 turbo:
     display_name: "Turbo Majumdar"
-    webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
     github: ppalwai2001
     role: alum
     bio: "Research @ Microsoft"
@@ -100,6 +111,33 @@ amlan:
     role: alum
     bio: "Professor at Rochester Institute of Technology"
 
+doyboy:
+    display_name: "Dwaipayan Choudhary"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "GPU Engineer @ Intel"
+
+aqeeb:
+    display_name: "Aqeeb Arka"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "GPU Engineer @ Intel"
+
+anwesha:
+    display_name: "Anwesha Chaterjee"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Design Engineer @ Qualcomm"
+
+shouvik:
+    display_name: "Shouvik Mussavir"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Design Engineer @ Cadence"
 # Undergrads
 # Alphabetical order
 
