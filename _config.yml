@@ -1,5 +1,5 @@
-name: Catalyst
-url: https://cmu-catalyst.github.io
+name: MARS
+url: https://mars-wsu.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
