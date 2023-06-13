@@ -1,12 +1,12 @@
 ---
-title: FlexFlow
+title: Dynamic Resource Management
 
 description: |
-    Automatically Discovering Fast Parallelization Strategies for DNN Training
+    Machine learning based dynamic resource management policies for mobile, large-manycore systems and PIM-based architectures
 
 
 layout: project
-last-updated: 2018-08-31
+last-updated: 2023-06-13
 ---
 
 [FlexFlow](https://flexflow.ai) is a DNN framework that automatically discovers fast parallelization strategies for distributed DNN training.
