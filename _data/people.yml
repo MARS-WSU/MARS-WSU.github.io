@@ -2,8 +2,8 @@
 # Alphabetical order last name
 
 Partha:
-    display_name: "Gaurav Narang"
-    webpage: "https://narangg.github.io"
+    display_name: "Partha Pande"
+    webpage: ""
     github: narangg
     role: PhD student
     image: /img/people/tqchen.jpg
@@ -17,45 +17,8 @@ greg:
     image: /img/people/greg.jpg
     bio: "Professor"
 
-gibbons:
-    display_name: "Phillip B. Gibbons"
-    webpage: "http://www.cs.cmu.edu/~gibbons/"
-    github: pbgibbons
-    role: faculty
-    image: /img/people/gibbons.jpg
-    bio: "Professor"
 
-zhihao:
-    display_name: "Zhihao Jia"
-    webpage: "https://cs.cmu.edu/~zhihaoj2/"
-    github: jiazhihao
-    role: faculty
-    image: /img/people/jiazhihao.jpg
-    bio: "Assistant Professor"
 
-mowry:
-    display_name: "Todd C. Mowry"
-    webpage: "https://www.toddcmowry.org/"
-    github: tcmowry
-    role: faculty
-    image: /img/people/mowry.jpg
-    bio: "Professor"
-
-ameet:
-    display_name: "Ameet Talwalkar"
-    webpage: "https://www.cs.cmu.edu/~atalwalk/"
-    github: atalwalkar
-    role: faculty
-    image: /img/people/ameet.jpg
-    bio: "Assistant Professor"
-
-ericxing:
-    display_name: "Eric Xing"
-    webpage: "https://www.cs.cmu.edu/~epxing/"
-    github: eric
-    role: faculty
-    image: /img/people/ericxing.jpg
-    bio: "Professor"
 
 # Postdocs/Collaborators
 
