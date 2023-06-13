@@ -1,23 +1,23 @@
 # Faculty
 # Alphabetical order last name
 
-Partha:
-    display_name: "Partha Pande"
-    webpage: ""
-    github: narangg
-    role: PhD student
-    image: /img/people/tqchen.jpg
-    bio: "PhD student"
+
 
 greg:
-    display_name: "Greg Ganger"
+    display_name: "Greg Bhai Ganger"
     webpage: "http://users.ece.cmu.edu/~ganger/"
     github: greg
     role: faculty
     image: /img/people/greg.jpg
     bio: "Professor"
 
-
+Partha:
+    display_name: "Partha Pratim Pande"
+    webpage: "http://users.ece.cmu.edu/~ganger/"
+    github: narangg
+    role: faculty
+    image: /img/people/tqchen2.jpg
+    bio: "PhD student"
 
 
 # Postdocs/Collaborators
@@ -38,12 +38,12 @@ narangg:
     display_name: "Gaurav Narang"
     webpage: "https://narangg.github.io"
     github: narangg
-    role: PhD student
+    role: grad
     image: /img/people/tqchen.jpg
     bio: "PhD student"
     
 daiyaanarfeen:
-    display_name: "Daiyaan Arfeen"
+    display_name: "Harsh Sharma"
     webpage: "https://www.linkedin.com/in/daiyaanarfeen/"
     role: grad
     image: /img/people/daiyaanarfeen.jpg
