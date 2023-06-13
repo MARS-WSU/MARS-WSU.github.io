@@ -31,14 +31,14 @@ narangg:
     webpage: "https://narangg.github.io"
     github: narangg
     role: grad
-    image: /img/people/gaurav.jpg
+    image: /img/people/Gaurav.jpg
     bio: "PhD student | Resource Management"
     
 harshari:
     display_name: "Harsh Sharma"
     webpage: "https://harshari.github.io"
     role: grad
-    image: /img/people/Harsh.jpg
+    image: /img/people/Harsh.JPG
     bio: "PhD candidate | Design | Art | Server-scale architecture design"
 
 pdhingra:
@@ -67,7 +67,7 @@ mike:
     display_name: "Mike Kishinevsky"
     webpage: "https://sudeep.co"
     role: collab
-    image: /img/people/sudeepagarwal.jpeg
+    #image: /img/people/sudeepagarwal.jpeg
 
 ananth:
     display_name: "Ananth Kalyanraman"
