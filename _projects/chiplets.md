@@ -15,6 +15,12 @@ Processing-in-memory (PIM) is a promising technique to accelerate deep learning 
 ![image](/img/chiplets/overview.png){: width="80%"}
 {:center}
 
+## Articles
+* [Accelerating the Future of Electronics:](https://medium.com/@harshari/accelerating-the-future-of-electronics-e23cc42d9d39) - Harsh Sharma @ Medium
+
+* [Unlocking Pattern Thinking (1.0): A Fundamental Approach to Problem Solving](https://medium.com/@harshari/sfcunlocking-pattern-thinking-1-0-a-fundamental-approach-to-problem-solving-c10453ce4031) - Harsh Sharma @ Medium
+
+
 ## Publications
 
 * {**BEST PAPER AWARD**} Harsh Sharma, Sumit K. Mandal, Jana Doppa, Umit Ogras and Partha Pratim Pande. [SWAP: A Server-Scale Communication-Aware Chiplet-Based Manycore PIM Accelerator](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9852792). - ESWEEK Conference 2023. Published in IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS, VOL. 41, NO. 11, NOVEMBER 2022. 
