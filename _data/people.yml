@@ -23,7 +23,7 @@ chux:
     webpage: "https://cogbogu.github.io"
     github: narangg
     role: grad
-    image: /img/people/harsh_pic.jpg
+    #image: /img/people/harsh_pic.jpg
     bio: "PhD Candidate | GNN on the Edge"
 
 narangg:
@@ -45,14 +45,14 @@ pdhingra:
     display_name: "Pratyush Dhingra"
     webpage: "https://pdhingra.github.io"
     role: grad
-    image: /img/people/harsh_pic.jpg
+    #image: /img/people/harsh_pic.jpg
     bio: "PhD student | Robust system design"
 
 lukas:
     display_name: "Lukas Pfromm"
     webpage: "https://pdhingra.github.io"
     role: grad
-    image: /img/people/harsh_pic.jpg
+    #image: /img/people/harsh_pic.jpg
     bio: "PhD student "
 
 
