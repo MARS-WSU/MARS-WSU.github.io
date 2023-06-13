@@ -3,7 +3,7 @@ name: MARS
 #baseurl: ""
 url: https://mars-wsu.github.io
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, README.md, .nojekyll, Makefile, screenshot.png]
 
 # Colorize code snippets with the rogue module if we want to deploy on GH.
 highlighter: rouge
