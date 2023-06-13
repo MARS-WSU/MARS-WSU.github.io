@@ -1,5 +1,5 @@
 ---
-title: Chiplet-based architecture design
+title: Chiplet-based Architecture Design
 
 description: |
     A novel server scale 2.5-D manycore architecture called SWAP for deep learning (DL) applications.
