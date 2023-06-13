@@ -27,6 +27,6 @@ Learning to Search (L2S) framework provides the following key features:
 
 ## Publication
 
-* Gaurav Narang, Aryan Deshwal, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande [DYNAMIC POWER MANAGEMENT IN LARGE MANYCORE SYSTEMS: A LEARNING-TO-SEARCH FRAMEWORK](https://cs.stanford.edu/~zhihao/papers/mlsys20.pdf). Accepted in TODAES, June 2023.
+* Gaurav Narang, Aryan Deshwal, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande [DYNAMIC POWER MANAGEMENT IN LARGE MANYCORE SYSTEMS: A LEARNING-TO-SEARCH FRAMEWORK](https://doi.org/10.1145/3603501). Accepted in TODAES, June 2023.
 
-* Gaurav Narang, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande. [Uncertainty-aware Online Learning for Dynamic Power Management in Large Manycore systems](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf). Accepted in ISLPED, Vienna, Austria, Aug 2023.
+* Gaurav Narang, Michael Kishinevsky, Raid Ayoub, Jana Doppa, Partha Pande. [Uncertainty-aware Online Learning for Dynamic Power Management in Large Manycore systems]. Accepted in ISLPED, Vienna, Austria, Aug 2023.
