@@ -9,7 +9,7 @@ Partha:
     github: narangg
     role: faculty
     image: /img/people/pande.jpg
-    bio: "PhD student"
+    bio: "BOSS at the MARS group"
 
 
 # Postdocs/Collaborators
@@ -23,7 +23,7 @@ chux:
     webpage: "https://cogbogu.github.io"
     github: narangg
     role: grad
-    image: /img/people/tqchen.jpg
+    image: /img/people/harsh_pic.jpg
     bio: "PhD Candidate | GNN on the Edge"
 
 narangg:
@@ -38,14 +38,14 @@ harshari:
     display_name: "Harsh Sharma"
     webpage: "https://harshari.github.io"
     role: grad
-    image: /img/people/Harsh.JPG
+    image: /img/people/harsh_pic.jpg
     bio: "PhD candidate | Design | Art | Server-scale architecture design"
 
 pdhingra:
     display_name: "Pratyush Dhingra"
     webpage: "https://pdhingra.github.io"
     role: grad
-    image: /img/people/daiyaanarfeen.jpg
+    image: /img/people/harsh_pic.jpg
     bio: "PhD student | Robust system design"
 
 
@@ -55,13 +55,13 @@ doppa:
     display_name: "Jana Doppa"
     webpage: "https://guoyaoli.com"
     role: collab
-    image: /img/people/guoyaoli.jpg
+    image: /img/people/jana.jpeg
 
 umit:
     display_name: "Umit Ogras"
     webpage: "https://guoyaoli.com"
     role: collab
-    image: /img/people/guoyaoli.jpg
+    image: /img/people/umit.jpg
 
 mike:
     display_name: "Mike Kishinevsky"
@@ -73,7 +73,7 @@ ananth:
     display_name: "Ananth Kalyanraman"
     webpage: "https://neerajaggarwal.com"
     role: collab
-    image: /img/people/neerajaggarwal.jpg
+    image: /img/people/umit.jpg
     
 
 # Alums
