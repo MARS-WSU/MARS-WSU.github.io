@@ -81,10 +81,10 @@ umit:
 
 mike:
     display_name: "Mike Kishinevsky"
-    #webpage: "https://sudeep.co"
+    webpage: "https://www.linkedin.com/in/michael-kishinevsky-8b95406/"
     role: collab
-    #image: /img/people/sudeepagarwal.jpeg
-    bio: "Research @ Intel-R&D"
+    image: img/people/mike.jpeg
+    bio: "Senior Principal Engineer @ Intel-R&D"
 ananth:
     display_name: "Ananth Kalyanraman"
     webpage: "https://eecs.wsu.edu/~ananth/"
