@@ -64,6 +64,12 @@ doppa:
     image: /img/people/jana.jpeg
     bio: "Professor @ EECS WSU"
 
+krish:
+    display_name: "Krishnendu Chakrabarty"
+    webpage: "https://search.asu.edu/profile/4669916"
+    role: collab
+    image: /img/people/kchakra.png
+    bio: "Fulton Professor @ ASU"
 
 umit:
     display_name: "Umit Ogras"
