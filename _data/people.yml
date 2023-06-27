@@ -150,6 +150,48 @@ shouvik:
     github: ppalwai2001
     role: alum
     bio: "Design Engineer @ Cadence"
+dlee:
+    display_name: "Dongjin Lee"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Started at Synopsys, CA"
+Xli:
+    display_name: "Xian Li"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Started at Qualcomm, CA"
+SDas:
+    display_name: "Saurav Das"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Intel, CA"
+WChoi:
+    display_name: "Wonje Choi"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Started at AMD, Texas"
+KDur:
+    display_name: "Karthi Duraisamy"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Synopsys, CA"
+Ryan:
+    display_name: "Ryan Kim"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Now at Intel"
+JMurray:
+    display_name: "Jacob Murray"
+    #webpage: "https://www.linkedin.com/in/poojan-palwai-79894b190/"
+    github: ppalwai2001
+    role: alum
+    bio: "Clinical Asst. Professor, WSU, Everett"
 # Undergrads
 # Alphabetical order
 
