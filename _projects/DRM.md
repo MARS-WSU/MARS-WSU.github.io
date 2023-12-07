@@ -1,5 +1,5 @@
 ---
-title: Dynamic Resource Management (L2S and UaOL)
+title: Dynamic Resource Management
 
 description: |
     Machine learning based dynamic resource management policies for mobile, large-manycore systems and PIM-based architectures
