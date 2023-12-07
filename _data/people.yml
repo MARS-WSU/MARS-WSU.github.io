@@ -8,7 +8,7 @@ Partha:
     webpage: "https://eecs.wsu.edu/~pande/"
     github: pande2
     role: faculty
-    image: /img/people/pande.jpg
+    image: img/people/pande.jpg
     bio: "BOSS at the MARS group"
 
 
@@ -23,7 +23,7 @@ chux:
     webpage: "https://cogbogu.github.io"
     github: narangg
     role: grad
-    image: /img/people/chux.jpg
+    image: img/people/chux.jpg
     bio: "PhD Candidate | GNN on the Edge"
 
 narangg:
@@ -31,28 +31,28 @@ narangg:
     webpage: "https://narangg.github.io"
     github: narangg
     role: grad
-    image: /img/people/Gaurav.jpg
+    image: img/people/Gaurav.jpg
     bio: "PhD student | Resource Management"
     
 harshari:
     display_name: "Harsh Sharma"
     webpage: "https://harshari.github.io"
     role: grad
-    image: /img/people/harsh_pic.jpg
+    image: img/people/harsh_pic.jpg
     bio: "PhD candidate | Design | Art | Server-scale architecture design"
 
 pdhingra:
     display_name: "Pratyush Dhingra"
     webpage: "https://pdhingra.github.io"
     role: grad
-    #image: /img/people/harsh_pic.jpg
+    #image: img/people/harsh_pic.jpg
     bio: "PhD student | Robust system design"
 
 lukas:
     display_name: "Lukas Pfromm"
     webpage: "https://pdhingra.github.io"
     role: grad
-    #image: /img/people/harsh_pic.jpg
+    #image: img/people/harsh_pic.jpg
     bio: "PhD student at UWisc"
 
 
@@ -61,21 +61,21 @@ doppa:
     display_name: "Jana Doppa"
     webpage: "https://eecs.wsu.edu/~jana/"
     role: collab
-    image: /img/people/jana.jpeg
+    image: img/people/jana.jpeg
     bio: "Professor @ EECS WSU"
 
 krish:
     display_name: "Krishnendu Chakrabarty"
     webpage: "https://search.asu.edu/profile/4669916"
     role: collab
-    image: /img/people/kchakra.png
+    image: img/people/kchakra.png
     bio: "Fulton Professor @ ASU"
 
 umit:
     display_name: "Umit Ogras"
     webpage: "https://directory.engr.wisc.edu/ece/Faculty/Ogras_/"
     role: collab
-    image: /img/people/umit.jpg
+    image: img/people/umit.jpg
     bio: "Professor @ UWisc-Madison"
 
 
@@ -89,14 +89,14 @@ ananth:
     display_name: "Ananth Kalyanraman"
     webpage: "https://eecs.wsu.edu/~ananth/"
     role: collab
-    image: /img/people/ananth.jpg
+    image: img/people/ananth.jpg
     bio: "Professor @ EECS WSU"
 
 sumit:
     display_name: "Sumit K. Mandal"
     webpage: "https://www.csa.iisc.ac.in/~skmandal/"
     role: collab
-    image: /img/people/sumit.jpeg
+    image: img/people/sumit.jpeg
     bio: "Assistant Professor @ IISc B'lore"
 
 # Alums
@@ -221,14 +221,14 @@ JMurray:
 #     webpage: "http://en.wikipedia.org/wiki/Professor_X"
 #     github: profx
 #     role: faculty
-#     image: /img/people/prof-x.png
+#     image: img/people/prof-x.png
 #     bio: Professor
 
 # scott:
 #     display_name: "Scott Summers"
 #     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
 #     role: staff
-#     image: /img/people/scott.png
+#     image: img/people/scott.png
 #     bio: aka Cyclops
 
 # wolverine:
@@ -241,7 +241,7 @@ JMurray:
 #     display_name: "Storm"
 #     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
 #     role: grad
-#     image: /img/people/storm.png
+#     image: img/people/storm.png
 
 # grad-a:
 #     display_name: "Grad A"
