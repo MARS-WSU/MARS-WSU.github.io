@@ -42,8 +42,8 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: "#people"
   - title: Research
-    link: /research.html
+    link: "#research.html"
   - title: Publications
-    link: /publications.html
+    link: "#publications.html"
